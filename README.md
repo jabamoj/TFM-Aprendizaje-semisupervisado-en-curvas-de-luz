@@ -7,3 +7,4 @@ Los codigos de este repositorio desempeñan las siguientes funciones:
 - Process_data_raw_KEPID.py: Se extraen las curvas del repositorio Kepler y se extraen sus features directamente
 - Process_data_savgol_KEPID.py: Se extraen las curvas del repositorio Kepler y se extraen sus features aplicando previamente el filtrado por Savitzky-Golay
 - merge.py: Fusiona los archivos temporrales creados en los Process, de forma que toda la extracció de features y etiquetas quede recogida en un único archivo
+- ModelosSavgol_analisis_coincidentes.ipynb: Entrena los modelos con un dataset comun de pruebas para su posterior analisis de resultados de coincidencias
